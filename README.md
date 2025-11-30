@@ -42,10 +42,10 @@
 
 ## Contact me
 <div style="width="100%"; margin-top: 30px;">
-  <a href="https:https://www.linkedin.com/in/paulo-henrique-lins-matos-b645012b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-henrique-lins-matos-b645012b8/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:ph61851@gmil.com">
+  <a href="gmailto:ph61851@gmil.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://wa.me/5511933579742?+" target="_blank">
