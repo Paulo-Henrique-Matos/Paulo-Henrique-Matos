@@ -6,7 +6,7 @@
 
 
 ### 🗣️ Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs" />
 
 ### 🛠️ Full-Stack Development
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs" />
