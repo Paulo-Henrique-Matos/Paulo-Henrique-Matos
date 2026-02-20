@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,java,cs" />
 
 ### 🛠️ Full-Stack Development
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,dotnet" />
 
 ### 🗄️ Databases & ORM
 <img src="https://skillicons.dev/icons?i=mysql" />
